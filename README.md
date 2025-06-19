@@ -1,0 +1,1 @@
+This repository contains all progress related to the 'HTML & CSS Basics Summary' project, completed as part of the Udemy course 100 Days of Code – 2025 Web Development Bootcamp by Maximilian Schwarzmüller (AWS Certified, Professional Web Developer & Instructor) and Manuel Lorenz (Professional Business Analyst & Instructor).
